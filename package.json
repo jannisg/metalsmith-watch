@@ -11,7 +11,7 @@
     "Maxime Thirouin"
   ],
   "license": "MIT",
-  "repository": "https://github.com/FWeinb/metalsmith-watch.git",
+  "repository": "https://github.com/jannisg/metalsmith-watch.git",
   "files": [
     "dist"
   ],

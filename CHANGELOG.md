@@ -1,3 +1,8 @@
+# 1.0.4 - 2016-12-14
+
+- Changed: package name and repo url to be scoped to @jannis to temporarily publish the compiled (dist folder including) package to NPM.
+  (This is necessary until [#34](https://github.com/FWeinb/metalsmith-watch/pull/34) by @auser is merged into the main repo)
+
 # 1.0.3 - 2016-06-07
 
 - Fixed: absolute source path doesn't make the pattern matcher fail anymore

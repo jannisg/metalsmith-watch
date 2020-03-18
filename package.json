@@ -18,12 +18,13 @@
   "main": "dist/index.js",
   "dependencies": {
     "async": "^0.9.0",
-    "chalk": "^1.0.0",
+    "chalk": "^2.0.0",
     "gaze": "^1.0.0",
     "metalsmith-filenames": "^1.0.0",
     "multimatch": "^2.0.0",
     "tiny-lr": "^0.1.5",
-    "unyield": "0.0.1"
+    "unyield": "0.0.1",
+    "strip-ansi": "^6.0.0"
   },
   "devDependencies": {
     "babel": "^5.1.13",
